@@ -46,7 +46,7 @@ class RandomNumberGenerator:
 
 class ImaginaryNumber:
     """Class to represent an imaginary number."""
-    
+
     def __ini__(self):
         self.real = 0
 
